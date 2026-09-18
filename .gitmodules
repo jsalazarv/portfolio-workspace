@@ -1,3 +1,6 @@
 [submodule "portfolio"]
 	path = portfolio
 	url = git@github.com:jsalazarv/portfolio.git
+[submodule "portfolio-api"]
+	path = portfolio-api
+	url = git@github.com:jsalazarv/portfolio-api.git
